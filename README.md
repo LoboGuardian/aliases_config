@@ -95,7 +95,7 @@ gitsa  # Apply last stash
 
 Stashes and applies changes later.
 
-## 🛠 Django Commands (Supports Pipenv & Poetry)
+## Django Commands (Supports Pipenv & Poetry)
 The system dynamically switches between Pipenv and Poetry based on:
 
 ```bash
